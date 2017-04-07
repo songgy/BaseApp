@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="indicate_line">#31C27C</color>
+    <color name="gray_white">#99FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="list_selector_pressed">#33000000</color>
+    <color name="pure_white">#FFFFFF</color>
+
+    <!-- 分横线颜色  -->
+    <color name="line_color">#dfdfdf</color>
+    <color name="unclick">#B1B1B1</color>
+    <color name="GREEN">#3BB44A</color>
+    <color name="BLUE">#3E96F8</color>
+    <color name="GRAY_BGM">#F8F8F8</color>
+    <color name="GRAY_TEXT">#DCDCDC</color>
+    <color name="GRAY_TEXT_2">#AAAAAA</color>
+    <color name="GRAY_AAAAAA">#aaaaaa</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="GRAY">#888888</color>
+    <color name="BLACK">#323232</color>
+    <color name="BLACK_1">#646464</color>
+    <color name="DEEP_RED">#B74D4E</color>
+    <color name="PINK_WHITE">#F3DFDF</color>
+
+    <color name="HOME_BGM">#21232f</color>
+    <color name="HOME_TITLE_BGM">#1D262F</color>
+    <color name="HOME_TITLE_LINE">#36394d</color>
+    <color name="HOME_TEXT_DEFAULT">#909093</color>
+    <color name="HOME_TEXT_PRESSED">#F8F8F8</color>
+
+    <color name="HOME_GREEN_BGM">#72C075</color>
+    <color name="HOME_GREEN_TEXT">#075C35</color>
+    <color name="HOME_ITEM_BGM">#4c4f6a</color>
+
+    <!--我的字体颜色-->
+    <color name="HOME_MINETEXT">#f2f9f4</color>
+    <color name="GRAY_LITTER">#989898</color>
+    <!--绑定界面绿色-->
+    <color name="BIND_GREEN_TEXT">#34b360</color>
+    <!--我的钱包金额-->
+    <color name="WALLET_MONEY">#1578ab</color>
+
+    <!--可提现日期-->
+    <color name="WITHDRAWAL_BGM">#fcfcfc</color>
+
+    <color name="WITHDRAWAL_LINE">#eeeeee</color>
+
+    <color name="WALLET_CHOOSE">#4d6893</color>
+
+    <color name="WALLET_CHOOSETIP">#949494</color>
+
+    <color name="GRAY_BTN_BGM">#e8e8e8</color>
+    <color name="CURRENT_ORDER_BGM">#33f2f9f4</color>
+
+    <color name="GREEN_BGM_WALLET">#78CA82</color>
+    <color name="wallet_withdraw_amount">#f39800</color>
+
+    <!--抢单页面背景-->
+    <color name="ROB_RENT">#00bb9c</color>
+    <color name="GREEN_DEEP">#066f13</color>
+    <color name="GREY_DEEP">#ebebeb</color>
+    <color name="BULE_DEEP">#009fbb</color>
+
+
+    <color name="BLUE_DEEP">#5cc3fa</color>
+    <color name="WALLET_RED">#CD0000</color>
+    <color name="DATA_TIP">#DEEFD8</color>
+
+    <color name="ROBBED_RED">#bb1a1a</color>
+
+</resources>
